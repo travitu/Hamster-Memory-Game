@@ -1,3 +1,5 @@
+![icon-256](https://cloud.githubusercontent.com/assets/6576679/20866680/cea3c190-ba75-11e6-85cd-6af3a9bc9b85.png)
+
 * [日本語](#ハムスター神経衰弱)
 * [English](#hamster-memory-game)
 
