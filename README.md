@@ -1,4 +1,25 @@
+* [日本語](#ハムスター神経衰弱)
+* [English](#Hamster-Memory-Game)
 
+# ハムスター神経衰弱
+
+# インフォメーション
+ver1.0.0 公開中
+
+## 概要
+かわいいハムスターの写真で神経衰弱ゲームが遊べます！
+
+## 遊び方
+2枚のカードをタップしてめくって、同じハムスターの写真が出たら得点が追加されます。
+異なるカードをめくった場合は相手の番に移ります。
+相手より多く同じカートをめくって勝利を目指してください。
+１人モードでコンピュータに勝つ度に、ハムスターの大きな写真を得ることができます。
+得た写真はアルバムページでいつでも見ることができます。
+
+## 動作環境
+- iOS8  以上
+- iPhone, iPod touch,  iPad
+- Android 2.3.3 later
 
 # Hamster-Memory-Game
 This is a support page of the Android and iOS app "Hamster Memory Game"
