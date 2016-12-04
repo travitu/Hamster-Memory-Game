@@ -1,5 +1,5 @@
 * [日本語](#ハムスター神経衰弱)
-* [English](#Hamster-Memory-Game)
+* [English](#hamster-memory-game)
 
 # ハムスター神経衰弱
 
@@ -20,6 +20,8 @@ ver1.0.0 公開中
 - iOS8  以上
 - iPhone, iPod touch,  iPad
 - Android 2.3.3 later
+
+---
 
 # Hamster-Memory-Game
 This is a support page of the Android and iOS app "Hamster Memory Game"
