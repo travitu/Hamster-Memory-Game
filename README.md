@@ -23,6 +23,11 @@ ver1.0.0 公開中
 - iPhone, iPod touch,  iPad
 - Android 2.3.3 later
 
+
+## 他のおすすめアプリ
+http://travitu-app.hatenablog.com/
+
+
 ---
 
 # Hamster-Memory-Game
