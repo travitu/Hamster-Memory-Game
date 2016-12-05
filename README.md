@@ -55,3 +55,6 @@ Every time you win the computer in single-person mode you can get a huge picture
 
 ## App Store
 <a href="https://itunes.apple.com/us/app/hamster-memory-game-match/id1180413199?l=ja&ls=1&mt=8" target="_blank">Hamster Memory Game</a>
+
+## Recommend apps and support
+http://travitu-app.hatenablog.com/
