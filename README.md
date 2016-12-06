@@ -25,7 +25,7 @@ ver1.0.0 公開中
 
 
 ## 他のおすすめアプリ
-http://travitu-app.hatenablog.com/
+<a href="http://travitu-app.hatenablog.com/entry/2016/12/05/214126" target="_blank">travitu apps</a>
 
 
 ---
