@@ -6,7 +6,7 @@
 # ハムスター神経衰弱
 
 # インフォメーション
-ver1.0.0 公開中
+ver1.1.0 公開中
 
 ## 概要
 かわいいハムスターの写真で神経衰弱ゲームが遊べます！
@@ -19,9 +19,9 @@ ver1.0.0 公開中
 得た写真はアルバムページでいつでも見ることができます。
 
 ## 動作環境
-- iOS8  以上
-- iPhone, iPod touch,  iPad
-- Android 2.3.3 later
+- iOS 9 以上
+- iPhone, iPod touch
+- Android 4.1 later
 
 
 ## 他のおすすめアプリ
@@ -34,7 +34,7 @@ ver1.0.0 公開中
 This is a support page of the Android and iOS app "Hamster Memory Game"
 
 # Information
-ver1.0.0 now available.
+ver1.1.0 now available.
 
 ## Overview
 You can play a memory game with cute hamster photos!
@@ -50,9 +50,9 @@ Please turn over the same cart more than your opponent and aim for victory.
 Every time you win the computer in single-person mode you can get a huge picture of the hamster. You can always see the photos you have on the album page.
 
 ## Requirement
-- iOS 8 later
-- iPhone, iPod touch and iPad
-- Android 2.3.3 later
+- iOS 9 later
+- iPhone, iPod touch
+- Android 4.1 later
 
 ## Google Play
 <a href="https://play.google.com/store/apps/details?id=dev.travitu.hamstermemorygame" target="_blank">Hamster Memory Game</a>
