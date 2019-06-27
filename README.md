@@ -6,7 +6,7 @@
 # ハムスター神経衰弱
 
 # インフォメーション
-ver1.1.0 公開中
+ver1.1.1 公開中
 
 ## 概要
 かわいいハムスターの写真で神経衰弱ゲームが遊べます！
@@ -34,7 +34,7 @@ ver1.1.0 公開中
 This is a support page of the Android and iOS app "Hamster Memory Game"
 
 # Information
-ver1.1.0 now available.
+ver1.1.1 now available.
 
 ## Overview
 You can play a memory game with cute hamster photos!
